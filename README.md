@@ -57,3 +57,4 @@ Edit `assets/css/styles.css`. Colors are defined in the `:root` variables near t
 ## License / use
 
 Template is for personal use and editing. Keep your descriptions, blog photos and repository code original and accurate.
+My personal portfolio website.
